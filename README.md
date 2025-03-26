@@ -1,0 +1,1 @@
+The main file is assignment2.ipynb and all dependencies are included. Data Visualization is just for my data analysis
